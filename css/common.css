@@ -1,0 +1,66 @@
+body{
+	margin-top: 50px;
+}
+
+.btn a{
+	color: white !important;
+}
+
+.ml10{
+	margin-left:50px;
+}
+.search-heading{
+	width:1140px;
+	color: #a2b9bc;
+	text-align: center;
+}
+.search-form{
+	height: 50px;
+	width:1140px;
+	background: #a2b9bc;
+	margin:0 auto;
+}
+.search-group{
+	height:30px;
+	width:300px;
+	padding-top: 10px;
+	float: left;
+}
+.search-slt{
+	height: 25px;
+	width: 250px;
+}
+.search-label{
+	padding-left: 10px;
+}
+.search-btn{
+	margin-top: 10px;
+	margin-left:10px;
+}
+.searched-data{
+	margin:0 auto;
+	text-align: center;
+	padding-top: 10px;
+	font-size:16px;
+}
+
+table td, th {
+  border: 1px solid #000000;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 20px;
+  background-color: #a2b9bc;
+  font-size: 16px;
+  text-align: center!important;
+}
+
+td {
+  font-size: 14px;
+}
+
